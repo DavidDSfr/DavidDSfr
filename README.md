@@ -1,7 +1,7 @@
 [![David DS](https://raw.githubusercontent.com/DavidDSfr/DavidDSfr/main/header.png)](https://davidds.fr/)
 ![Profile Views](https://komarev.com/ghpvc/?username=daviddsfr&style=flat-square&color=0d2550&label=VIEWS) ![Discord Status](https://dcbadge.vercel.app/api/shield/375592240350756868?style=flat-square&theme=discord-inverted&compact=true)
 
-<img src="https://davidds.fr/img/look-up-shawking.png" width="362" align="right" alt="Remember to look up at the stars and not down at your feet. Stephen HAWKING">
+<img src="https://davidds.fr/img/look-up-shawking.png" width="320" align="right" alt="Remember to look up at the stars and not down at your feet. Stephen HAWKING">
 
 ## 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘 ![𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍!](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=3645AE&vCenter=true&height=36&lines=Hello+World!)
 
