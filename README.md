@@ -9,6 +9,7 @@
 - 🎓 Graduate in **Computer Science**
 - 🌱 I’m currently learning **Python** and **Flutter**
 - 🌍 From **France**, I am 🇫🇷 🇵🇹
+- 🌑 User of dark mode
 - 🎮 In the gaming world, I am known more as **CYTRAxX**
 - ⚡ Fun fact: A few years ago, I had created my own webradio which had its little success... So, I am a **former radio host**
 
