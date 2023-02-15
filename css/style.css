@@ -1,0 +1,45 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.left-column {
+  width: 60%;
+}
+
+.right-column {
+  width: 40%;
+  text-align: center;
+}
+
+.about-me {
+  width: 92%;
+  background-color: rgba(0,6,34,0.44);
+  padding: 20px 20px 10px 0px;
+  margin-bottom: 15px;
+  background: linear-gradient(90deg, rgba(0,6,34,1) 0%, rgba(16,18,59,1) 42%, rgba(41,52,132,1) 100%);
+}
+
+.metrics {
+  margin-bottom: 10px;
+}
+
+.quote {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+  .left-column, .right-column {
+    width: 100%;
+  }
+  .about-me {
+    width: 100%;
+  }
+}
