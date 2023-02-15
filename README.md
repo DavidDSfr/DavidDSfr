@@ -1,5 +1,5 @@
 [![David DS](https://raw.githubusercontent.com/DavidDSfr/DavidDSfr/main/header.png)](https://davidds.fr/)
-![Profile Views](https://komarev.com/ghpvc/?username=daviddsfr&style=flat-square&color=0d2550&label=VIEWS) ![Discord Status](https://dcbadge.vercel.app/api/shield/375592240350756868?style=flat-square&theme=discord-inverted&compact=true)
+[![Profile Views](https://komarev.com/ghpvc/?username=daviddsfr&style=flat-square&color=0d2550&label=VIEWS)](#) [![Discord Status](https://dcbadge.vercel.app/api/shield/375592240350756868?style=flat-square&theme=discord-inverted&compact=true)](#) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/DavidDS_fr) [![PayPal Me](https://img.shields.io/badge/PayPal.Me-0070BA?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/davidds) <!-- ![Github Sponsor](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=GitHub-Sponsors&logoColor=#EA4AAA) -->
 
 <img src="https://davidds.fr/img/look-up-shawking.png" width="320" align="right" alt="Remember to look up at the stars and not down at your feet. Stephen HAWKING">
 
