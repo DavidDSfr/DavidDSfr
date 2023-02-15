@@ -15,7 +15,9 @@
 
 ![Metrics](https://metrics.lecoq.io/daviddsfr?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Europe%2FParis)
 
-## 𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘𝗦 & 𝗧𝗢𝗢𝗟𝗦
+<details>
+<summary><b>𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘𝗦 & 𝗧𝗢𝗢𝗟𝗦</b></summary>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,vim,bash,linux,raspberrypi,docker,bots,lua,html,css,js,jquery,nodejs,bootstrap,php,symfony,mysql,sqlite,nginx,cloudflare,wordpress,androidstudio,java,kotlin,swift,postman,react,firebase,photoshop,ai,ae,au,xd,c,cpp,cs&perline=10" />
 </p>
+</details>
