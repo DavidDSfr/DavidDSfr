@@ -6,7 +6,7 @@
 ## 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘 ![𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍!](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=3645AE&vCenter=true&height=36&lines=Hello+World!)
 
 - 🖥️ **Full-Stack Lead Developer** of a lot of things... on several platforms
-- 🎓 Graduate in **Computer Science**
+- 🎓 Graduate in **Computer Science** since 2012
 - 🌱 I’m currently learning **Python**, **Flutter** and **Angular**
 - 🌍 From **France**, I am 🇫🇷 🇵🇹
 - 🌑 User of dark mode
