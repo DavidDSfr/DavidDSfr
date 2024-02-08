@@ -7,7 +7,7 @@
 
 - 🖥️ **Full-Stack Lead Developer** of a lot of things... on several platforms
 - 🎓 Graduate in **Computer Science**
-- 🌱 I’m currently learning **Python** and **Flutter**
+- 🌱 I’m currently learning **Python**, **Flutter** and **Angular**
 - 🌍 From **France**, I am 🇫🇷 🇵🇹
 - 🌑 User of dark mode
 - 🎮 In the gaming world, I am known more as **CYTRAxX**
