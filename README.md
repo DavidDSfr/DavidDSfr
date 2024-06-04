@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Python**, **Flutter** and **Angular**
 - 🌍 From **France**, I am 🇫🇷 🇵🇹
 - 🌑 User of dark mode
-- 🎮 In the gaming world, I am known more as **CYTRAxX**
+- 🎮 In the gaming world, I am known more as (Lord)**CYTRAxX**
 - ⚡ Fun fact: A few years ago, I had created my own webradio which had its little success... So, I am a **former radio host**
 
 <!-- ![Metrics](https://metrics.lecoq.io/daviddsfr?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Europe%2FParis) -->
